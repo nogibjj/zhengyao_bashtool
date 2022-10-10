@@ -37,5 +37,6 @@ Data Sorting: Sort the query data based on released year in ascending order
 ```
 
 ## Implement the Bash Tool
-``` sh bashtool.sh
+``` 
+sh bashtool.sh
 ```
